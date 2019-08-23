@@ -1,0 +1,61 @@
+#home { 
+
+	position: absolute;
+	width: 90%;
+	left: 10%;
+	top: -1%;
+
+}
+
+h1 {
+	
+	text-align: center;
+	color: white;
+	
+}
+
+
+#logo { 
+
+	position: absolute;
+	width: 57%; 
+	left: 2%;
+
+}
+
+#invite { 
+
+	position: absolute;
+	font-size: 2vw;
+	background-color: lime;
+	width: 30%;
+	left: 64%;
+	border: 1px solid lime;
+	border-radius: 15px;
+	cursor: hand;
+
+}
+
+#join { 
+
+	position: absolute;
+	font-size: 2vw;
+	background-color: lime;
+	width: 30%;
+	left: 64%;
+	top: 160%;
+	border: 1px solid lime;
+	border-radius: 15px;
+	cursor: hand;
+
+}
+
+#server {
+	
+	position: absolute;
+	left: 64%;
+	top: 300%;
+	width: 30%;
+	height: 500%;
+	
+}
