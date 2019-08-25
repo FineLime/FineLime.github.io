@@ -9,8 +9,8 @@ var answers = [
 	"Uufortunately not, this is also not a feature that is planning to be added in the future",
 	"A help command will be added soon, in the meantime just check out <a href='docs.html'>the docs</a> for a list of commands and how to use them!", 
 	"You can't delete them right now, though I will hopefully be added the ability to in the future, in the meantime you are able to remove the reaction from the message.",
-	"Yes, the bot is open source! You can find the code <a href='https://github.com/FineLime/TestingLimeBot' target='_blank'>here.</a>"
-	"Yep, the bot is online 24/7 as it is hosted on Heroku!"
+	"Yes, the bot is open source! You can find the code <a href='https://github.com/FineLime/TestingLimeBot' target='_blank'>here.</a>",
+	"Yep, the bot is online 24/7 as it is hosted on Heroku!",
 	"Sorry I couldn't answer your question(s) here, join our <a href='https://discord.gg/r5NmHjB' target='_blank'>discord server</a> and ask your questions there!"
 	
 ];
