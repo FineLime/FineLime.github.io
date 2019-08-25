@@ -24,13 +24,19 @@ h1 {
 
 }
 
+#links { 
+	
+	position: absolute;
+	left: 64%;
+	
+}
+
 #invite { 
 
 	position: absolute;
 	font-size: 2vw;
 	background-color: lime;
 	width: 30%;
-	left: 64%;
 	border: 1px solid lime;
 	border-radius: 15px;
 	cursor: hand;
@@ -43,8 +49,6 @@ h1 {
 	font-size: 2vw;
 	background-color: lime;
 	width: 30%;
-	left: 64%;
-	top: 160%;
 	border: 1px solid lime;
 	border-radius: 15px;
 	cursor: hand;
@@ -54,8 +58,6 @@ h1 {
 #server {
 	
 	position: absolute;
-	left: 64%;
-	top: 300%;
 	height: 60vh;
 	width: 27vw;
 	
