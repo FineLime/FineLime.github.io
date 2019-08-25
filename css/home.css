@@ -19,7 +19,7 @@ h1 {
 
 	position: absolute;
 	width: 60%;
-	height: 60%;
+	height: 80vh;
 	left: 2%;
 
 }
@@ -57,6 +57,6 @@ h1 {
 	left: 64%;
 	top: 300%;
 	height: 60vh;
-	width: 30vw;
+	width: 27vw;
 	
 }
