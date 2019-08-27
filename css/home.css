@@ -62,6 +62,7 @@ h1 {
 
 #wink { 
 	
+	position: absolute;
 	font-size: 15vw;
 	font-weight: bold;
 	color: white;
