@@ -15,6 +15,13 @@ var answers = [
 //Show/hide the answer
 var showfunc = function(what) { 
 	
+	checking = document.getElementsByClassName('Question')
+	for (let i = 0; i < checking.length; i++) {
+		
+		checking[i] = checking.children[2];	
+		
+	}
+	console.log(checking.indexOf(what))
 	//Get the answer using the elements id (minus 1 as arrays start from 0
 	var answer = answers[Number(what.id.substring(4, 10))-1];
 	
