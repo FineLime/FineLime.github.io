@@ -18,7 +18,7 @@ var showfunc = function(what) {
 	checking = document.getElementsByClassName('Question')
 	for (let i = 0; i < checking.length; i++) {
 		
-		checking[i] = checking.children[2];	
+		checking[i] = (checking.children)[2];	
 		
 	}
 	console.log(checking.indexOf(what))
