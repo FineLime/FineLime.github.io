@@ -22,7 +22,8 @@ var showfunc = function(what) {
 		checking[i] = checking[i].children[2];	
 		
 	}
-	console.log(checking.indexOf(what))
+	console.log(checking.indexOf(what.parentElement.children[2]))
+	console.log(what.parentElement.children[2])
 	//Get the answer using the elements id (minus 1 as arrays start from 0
 	var answer = answers[Number(what.id.substring(4, 10))-1];
 	
