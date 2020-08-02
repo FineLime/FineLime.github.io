@@ -1,7 +1,6 @@
 //Answers to appear when you click "+"
 var answers = [
 
-	"LimeBot is currently private, but I'll make it public once I add more features and it's more user friendly!", 
 	"Coins are currently unobtainbable but I'll be adding ways to get coins in the future", 
 	"Possibly, just join our <a href='https://discord.gg/BTDzs9G' target='_blank'>discord server</a> and send your suggestions!", 
 	"Currently there are no error messages so that's why it may say nothing, if a command is not working you are either not using it correctly or either you or the bot doesn't have perms to use the comamnd. Make sure to read <a href='docs.html'>the docs.</a>",
