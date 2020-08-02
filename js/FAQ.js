@@ -16,6 +16,7 @@ var answers = [
 var showfunc = function(what) { 
 	
 	checking = document.getElementsByClassName('Question')
+	checking = [].slice.call(checking);
 	for (let i = 0; i < checking.length; i++) {
 		
 		checking[i] = checking[i].children[2];	
